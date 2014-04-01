@@ -1,0 +1,33 @@
+<html>
+<head>
+<title>Practiced6</title>
+<body bgcolor="red">
+<h1 align="center" >saved</h1>
+<hr>
+<form method="POST" action="saved.php">
+<table border=1>
+<td><h3>Abarrotes</td></h3>
+<td><h3>Products</td></h3>
+<td><h3>$ Price</td></h3>
+<tr>
+<td><h3>Product 1</td></h3>
+<td><input type = "text" name="Product1" id="Product1" size="25"></td>
+<td><input type = "text" name="Price1" id="Price1" size="25"></td>
+</tr>
+<tr>
+<td><h3>Product 2</td></h3>
+<td><input type = "text" name="Product2" id="Product2" size="25"></td>
+<td><input type = "text" name="Price2" id="Price32" size="25"></td>
+</tr>
+<tr>
+<td><h3>Product 3</td></h3>
+<td><input type = "text" name="Product3" id="Product3" size="25"></td>
+<td><input type = "text" name="Price3" id="Price3" size="25"></td>
+</tr>
+</table>
+<p></p>
+<input type="submit" value="send">
+</from>
+</head>
+</body>
+</html>
